@@ -1,8 +1,8 @@
-# 🌐 WebDev Curso em Vídeo
+# 🌐 HTML + CSS Curso em Vídeo
 
 ## ✨ Introdução
 
-Esse repositório contém os exerícios e desafios passados no curso de HTML + CSS do canal Curso em Vídeo.
+Esse repositório contém os exerícios e desafios passados no [curso de HTML + CSS do canal Curso em Vídeo](https://github.com/gustavoguanabara/html-css).
 
 ## 📁 Estrutura de Pastas
 
